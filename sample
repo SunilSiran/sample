@@ -1,3 +1,7 @@
 hai hello
+<<<<<<< HEAD
 master branch
+=======
+conflict da
+>>>>>>> refs/remotes/origin/newbranch
 how are you
